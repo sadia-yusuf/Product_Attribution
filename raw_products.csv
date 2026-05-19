@@ -1,0 +1,47 @@
+product_id,product_name,brand,raw_category,price_inr,stock_units
+P0001,Nivea Q10 Anti-Wrinkle Day Cream 50ml,Nivea,personal care,330.91,348
+P0002,Olay Regenerist Micro-Sculpting Cream,Olay,skincare,187.58,71
+P0003,Neutrogena Hydro Boost Water Gel,Neutrogena,,498.99,102
+P0004,Cetaphil Gentle Skin Cleanser 500ml,Cetaphil,,384.37,214
+P0005,Lakme Absolute Skin Natural Mousse,Lakme,,93.56,87
+P0006,Pond's White Beauty Cream 35g,Pond's,skincare,300.28,359
+P0007,Garnier Light Complete Serum Cream,Garnier,cream,581.05,149
+P0008,The Body Shop Vitamin E Moisturiser,The Body Shop,skin,92.31,343
+P0009,Himalaya Herbals Nourishing Skin Cream,Himalaya,,674.33,293
+P0010,Biotique Bio Almond Oil Moisturiser,Biotique,moisturiser,50.58,443
+P0011,Head & Shoulders Anti-Dandruff Shampoo 400ml,P&G,hair/shampoo,187.55,459
+P0012,Pantene Pro-V Silky Smooth Shampoo,Pantene,shampoo,508.74,252
+P0013,Dove Intense Repair Shampoo 340ml,Dove,hair care,373.96,48
+P0014,TRESemmé Keratin Smooth Shampoo,TRESemmé,hair,443.58,169
+P0015,Sunsilk Stunning Black Shine Shampoo,Sunsilk,,85.0,187
+P0016,Garnier Ultra Blends Mythic Olive Conditioner,Garnier,conditioner,324.77,189
+P0017,Dove Intense Repair Conditioner,Dove,hair,117.95,445
+P0018,Parachute Advansed Jasmine Hair Oil 300ml,,hair oil,199.76,54
+P0019,Indulekha Bringha Hair Oil,Indulekha,,787.42,130
+P0020,Himalaya Anti-Dandruff Hair Cream,Himalaya,hair,694.96,134
+P0021,Dove Deeply Nourishing Body Wash 500ml,Dove,personal care,177.89,166
+P0022,Lux Velvet Touch Body Wash,Lux,,59.95,88
+P0023,Dettol Original Liquid Hand Wash 200ml,Dettol,,774.22,241
+P0024,Lifebuoy Total 10 Body Wash,Lifebuoy,hygiene,339.06,345
+P0025,Pears Pure & Gentle Shower Gel,Pears,bath,123.25,339
+P0026,Palmolive Naturals Milk & Honey Body Wash,Palmolive,,230.77,443
+P0027,Fiama Di Wills Peach & Avocado Shower Gel,Fiama,body,141.53,263
+P0028,Savlon Moisturising Hand Wash 200ml,Savlon,hygiene,75.79,205
+P0029,Biotique Morning Nectar Body Lotion,Biotique,lotion,343.3,49
+P0030,Vaseline Intensive Care Body Lotion,Vaseline,body lotion,546.89,1
+P0031,Colgate MaxFresh Toothpaste 150g,Colgate,,368.87,53
+P0032,Sensodyne Rapid Relief Toothpaste,Sensodyne,toothpaste,460.03,309
+P0033,Oral-B Pro-Expert Toothbrush,Oral-B,dental,73.48,401
+P0034,Colgate 360 Charcoal Gold Toothbrush,Colgate,brush,631.35,161
+P0035,Listerine Cool Mint Mouthwash 500ml,Listerine,,346.36,483
+P0036,Dabur Red Toothpaste Ayurvedic,Dabur,oral,498.42,303
+P0037,Pepsodent Germicheck Toothpaste,Pepsodent,,294.91,461
+P0038,Close Up Deep Action Toothpaste,Close Up,toothpaste,196.99,189
+P0039,Himalaya Wellness Complete Care,Himalaya,,294.0,207
+P0040,Generic Product 001,Unknown,,610.49,366
+P0041,Dove Men+Care Face Wash,Dove,men care,671.55,409
+P0042,Johnson's Baby Powder 200g,,,773.94,187
+P0043,Vicks VapoRub 50ml,Vicks,wellness,457.02,40
+P0044,Gillette Mach3 Razor,,grooming,272.21,300
+P0045,Old Spice After Shave Lotion,Old Spice,,105.91,326
+P0001,Nivea Q10 Anti-Wrinkle Day Cream 50ml,Nivea,personal care,330.91,348
