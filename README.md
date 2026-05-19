@@ -22,13 +22,13 @@ project1_product_attribution/
 ├── README.md                     ← This file
 ├── product_attribution.py        ← Main attribution engine
 ├── generate_sample_data.py       ← Sample dataset generator
-├── requirements.txt              ← Dependencies
+
 ├── data/
 │   ├── raw_products.csv          ← Input: raw product data
 │   └── client_taxonomy.json      ← Input: client's category definitions
 └── output/
     ├── attributed_products.csv   ← Output: mapped + confidence scored
-    └── attribution_report.txt    ← Output: summary report
+   
 ```
 
 ## How It Works
@@ -82,8 +82,3 @@ python product_attribution.py     # runs engine, writes output/
 3. A product can match multiple categories; the highest-scoring one wins
 4. Thresholds (keyword score ≥ 2 = HIGH) are configurable in the taxonomy JSON
 
-## What I Would Add With More Time
-- ML layer (TF-IDF + cosine similarity) for semantic matching
-- Feedback loop: analyst corrections feed back into keyword rules
-- Multi-language product name support
-- REST API wrapper for real-time attribution requests
