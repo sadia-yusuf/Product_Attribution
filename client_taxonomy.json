@@ -1,0 +1,103 @@
+{
+  "Skincare": {
+    "keywords": [
+      "moisturiser",
+      "moisturizer",
+      "cream",
+      "serum",
+      "cleanser",
+      "face wash",
+      "sunscreen",
+      "spf",
+      "toner",
+      "skin",
+      "lotion face",
+      "anti-wrinkle",
+      "whitening",
+      "brightening",
+      "gel face"
+    ],
+    "brands": [
+      "Nivea",
+      "Olay",
+      "Neutrogena",
+      "Cetaphil",
+      "Lakme",
+      "Pond's",
+      "Garnier",
+      "The Body Shop",
+      "Himalaya",
+      "Biotique"
+    ]
+  },
+  "Haircare": {
+    "keywords": [
+      "shampoo",
+      "conditioner",
+      "hair oil",
+      "hair cream",
+      "hair mask",
+      "hair serum",
+      "dandruff",
+      "keratin",
+      "hair",
+      "scalp"
+    ],
+    "brands": [
+      "Head & Shoulders",
+      "Pantene",
+      "TRESemm\u00e9",
+      "Sunsilk",
+      "Parachute",
+      "Indulekha"
+    ]
+  },
+  "Bath & Body": {
+    "keywords": [
+      "body wash",
+      "shower gel",
+      "hand wash",
+      "soap",
+      "bath",
+      "body lotion",
+      "body milk",
+      "hygiene",
+      "liquid wash",
+      "scrub body"
+    ],
+    "brands": [
+      "Dove",
+      "Lux",
+      "Dettol",
+      "Lifebuoy",
+      "Pears",
+      "Palmolive",
+      "Fiama",
+      "Savlon",
+      "Vaseline"
+    ]
+  },
+  "Oral Care": {
+    "keywords": [
+      "toothpaste",
+      "toothbrush",
+      "mouthwash",
+      "dental",
+      "teeth",
+      "whitening teeth",
+      "oral",
+      "floss",
+      "gum",
+      "brush teeth"
+    ],
+    "brands": [
+      "Colgate",
+      "Sensodyne",
+      "Oral-B",
+      "Listerine",
+      "Dabur",
+      "Pepsodent",
+      "Close Up"
+    ]
+  }
+}
